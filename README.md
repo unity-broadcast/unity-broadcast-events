@@ -31,32 +31,18 @@ Once installed you can start using the events. Please have a look at the core do
 
 ## Implemented game events
 
-- **Simple Types**
+- **Value Types**
 
-  `bool, char, decimal, double, float, int`
+  `void, bool, char, decimal, double, float, int, DateTime`
 
-- **Struct Types**
+- **Reference Types**
 
-  `void`
+  `object, string`
+  
+  `bool[], char[], decimal[], double[], float[], int[], DateTime[]`
 
-- **Class Types**
-
-  `object`
-
-- **Array Types**
-  - **Simple Types**
+  `object[], string[]`
   
-    `bool[], char[], decimal[], double[], float[], int[]`
-  
-  - **Class Types**
-  
-    `object[]`
-  
-  
-  
-  
-  
-
 <a name="get-in-touch"/>
 
 ## Get in touch
