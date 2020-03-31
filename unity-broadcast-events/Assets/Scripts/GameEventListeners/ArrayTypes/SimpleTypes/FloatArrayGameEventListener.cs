@@ -1,0 +1,1 @@
+public class FloatArrayGameEventListener : BaseGameEventListener<float[], FloatArrayGameEvent, FloatArrayUnityEvent> { }

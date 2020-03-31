@@ -1,0 +1,1 @@
+public class BoolArrayGameEventListener : BaseGameEventListener<bool[], BoolArrayGameEvent, BoolArrayUnityEvent> { }

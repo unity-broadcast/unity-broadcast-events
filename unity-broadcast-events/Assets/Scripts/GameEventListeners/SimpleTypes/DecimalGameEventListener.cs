@@ -1,0 +1,1 @@
+public class DecimalGameEventListener : BaseGameEventListener<decimal, DecimalGameEvent, DecimalUnityEvent> { }

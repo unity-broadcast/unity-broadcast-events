@@ -1,0 +1,1 @@
+public class CharArrayGameEventListener : BaseGameEventListener<char[], CharArrayGameEvent, CharArrayUnityEvent> { }

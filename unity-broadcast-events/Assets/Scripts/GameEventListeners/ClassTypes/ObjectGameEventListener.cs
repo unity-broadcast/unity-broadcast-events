@@ -1,0 +1,1 @@
+﻿public class ObjectGameEventListener : BaseGameEventListener<object, ObjectGameEvent, ObjectUnityEvent> { }

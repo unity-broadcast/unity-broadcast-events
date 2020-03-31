@@ -1,0 +1,1 @@
+﻿public class IntArrayGameEventListener : BaseGameEventListener<int[], IntArrayGameEvent, IntArrayUnityEvent> { }
