@@ -31,7 +31,31 @@ Once installed you can start using the events. Please have a look at the core do
 
 ## Implemented game events
 
-... under construction ...
+- **Simple Types**
+
+  `bool, char, decimal, double, float, int`
+
+- **Struct Types**
+
+  `void`
+
+- **Class Types**
+
+  `object`
+
+- **Array Types**
+  - **Simple Types**
+  
+    `bool[], char[], decimal[], double[], float[], int[]`
+  
+  - **Class Types**
+  
+    `object[]`
+  
+  
+  
+  
+  
 
 <a name="get-in-touch"/>
 
