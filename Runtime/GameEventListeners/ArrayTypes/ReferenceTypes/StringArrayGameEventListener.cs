@@ -1,0 +1,1 @@
+public class StringArrayGameEventListener : BaseGameEventListener<string[], StringArrayGameEvent, StringArrayUnityEvent> { }
