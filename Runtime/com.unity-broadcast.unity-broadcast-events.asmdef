@@ -1,3 +1,15 @@
-﻿{
-	"name": "com.unity-broadcast.unity-broadcast-events"
+{
+    "name": "com.unity-broadcast.unity-broadcast-events",
+    "references": [
+        "GUID:a912236f020b8fd709af91e43ca224a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
