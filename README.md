@@ -33,15 +33,15 @@ Once installed you can start using the events. Please have a look at the core do
 
 - **Value Types**
 
-  `void, bool, char, decimal, double, float, int, DateTime`
+  `void, bool, char, decimal, double, float, int, DateTime, Scene, Quaternion, Vector2, Vector2Int, Vector3, Vector3Int, Vector4`
 
 - **Reference Types**
 
-  `object, string`
+  `object, string, GameObject, Transform, Rigidbody, Rigidobdy2D`
   
-  `bool[], char[], decimal[], double[], float[], int[], DateTime[]`
+  `bool[], char[], decimal[], double[], float[], int[], DateTime[], Scene[], Quaternion[], Vector2[], Vector2Int[], Vector3[], Vector3Int[], Vector4[]`
 
-  `object[], string[]`
+  `object[], string[], GameObject[], Transform[], Rigidbody[], Rigidobdy2D[]`
   
 <a name="get-in-touch"/>
 
