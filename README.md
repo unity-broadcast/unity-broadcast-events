@@ -37,11 +37,11 @@ Once installed you can start using the events. Please have a look at the core do
 
 - **Reference Types**
 
-  `object, string, GameObject, Transform, Rigidbody, Rigidobdy2D`
+  `object, string, GameObject, Transform, Rigidbody, Rigidbody2D`
   
   `bool[], char[], decimal[], double[], float[], int[], DateTime[], Scene[], Quaternion[], Vector2[], Vector2Int[], Vector3[], Vector3Int[], Vector4[]`
 
-  `object[], string[], GameObject[], Transform[], Rigidbody[], Rigidobdy2D[]`
+  `object[], string[], GameObject[], Transform[], Rigidbody[], Rigidbody2D[]`
   
 <a name="get-in-touch"/>
 
