@@ -19,7 +19,7 @@ Install the package from the Git URL (more information [here](https://docs.unity
 https://github.com/unity-broadcast/unity-broadcast-events.git
 ```
 
-Please install the core package first.
+Please install the [core package](https://github.com/unity-broadcast/unity-broadcast-core#installation) first.
 
 <a name="usage"/>
 
